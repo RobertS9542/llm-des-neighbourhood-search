@@ -1,0 +1,19 @@
+Simulated Annealing run summary
+===============================
+Random seed: 2070912349
+Initial makespan: 16630.57522948563
+Global best makespan: 14280.435596958914
+Candidate evaluations: 3000
+Completed simulations including initial baseline: 3001
+Initial baseline simulation wall time: 0.6167 s
+Cumulative candidate simulation wall time: 1978.6526 s
+Cumulative SA decision-generation wall time: 0.2876 s
+Inference time: 0.0000 s (not applicable to SA)
+Optimization time excluding initial baseline: 1984.8946 s
+Total run time including initial baseline: 1987.5138 s
+Final SA temperature: 4.971239399803627
+Initial SA temperature: 100.0
+Cooling rate: 0.999
+Minimum SA temperature: 0.01
+Maximum candidate evaluations: 3000
+Operator weights: {'swap': 1.0, 'move': 1.0, 'reverse': 1.0, 'reinsert_block': 1.0, 'swap_blocks': 0.5}
