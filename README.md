@@ -4,7 +4,7 @@ Repository contents
 
 This repository contains the materials associated with the study
 “Context-Aware LLM-Guided Neighbourhood Search for Simulation-Based
-Production Scheduling”.
+Production Scheduling”, authored by Róbert Skapinyecz.
 
 The repository includes: - the Python implementation of the LLM-guided
 optimiser; - the Python implementation of the simulated annealing (SA)
